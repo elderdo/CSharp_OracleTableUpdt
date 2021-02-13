@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.apprenda.com/SettingsXmlDoc">
+  <Settings>
+    <SettingDefinition name="Application Alias" value="irvt" />
+    <SettingDefinition name="Version Alias" value="v1" />
+    <SettingDefinition name="Private Root" />
+    <SettingDefinition name="Public Root" value="IVRT" />
+    <SettingDefinition name="Extention Filter" value=".sln;.vb;.cs;.h;.cpp;.pdb;.obj;.dep;.idb" />
+    <SettingDefinition name="Build Config" value="Debug" />
+    <SettingDefinition name="Archive Output Path" value="C:\Users\zf297a\Documents\Visual Studio 2010\Projects\IVRT\Archive.zip" />
+    <SettingDefinition name="Application Provisioning Script" />
+    <SettingDefinition name="Tennant Provisioning Script" />
+    <SettingDefinition name="Services" value="" />
+  </Settings>
+</root>

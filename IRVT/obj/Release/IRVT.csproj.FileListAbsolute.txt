@@ -1,0 +1,6 @@
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\IRVT\IRVT\IRVT\bin\IRVT.dll.config
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\IRVT\IRVT\IRVT\bin\IRVT.dll
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\IRVT\IRVT\IRVT\bin\IRVT.pdb
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\IRVT\IRVT\IRVT\obj\Release\IRVT.csprojResolveAssemblyReference.cache
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\IRVT\IRVT\IRVT\obj\Release\IRVT.dll
+C:\Users\zf297a\Documents\Visual Studio 2013\Projects\IRVT\IRVT\IRVT\obj\Release\IRVT.pdb

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2014-07-23T14:40:36.0000000-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>\\sw\ewh\dev\VOL01\c17apps\gspa\IRVT</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>03/11/2014 22:22:08</publishTime>
+    </File>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>03/11/2014 22:22:08</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>03/11/2014 22:22:08</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>03/11/2014 22:22:08</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>03/11/2014 22:22:08</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>02/24/2014 18:12:38</publishTime>
+    </File>
+    <File Include="bin/IRVT.dll">
+      <publishTime>04/12/2016 12:00:38</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>03/11/2014 22:22:08</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/11/2014 22:22:08</publishTime>
+    </File>
+    <File Include="Panel10.aspx">
+      <publishTime>07/23/2014 14:36:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>02/24/2014 18:12:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>02/24/2014 18:12:38</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>02/24/2014 18:12:38</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>03/11/2014 22:22:06</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>02/24/2014 18:12:38</publishTime>
+    </File>
+    <File Include="testDriver.aspx">
+      <publishTime>07/07/2014 09:33:20</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/12/2016 12:00:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

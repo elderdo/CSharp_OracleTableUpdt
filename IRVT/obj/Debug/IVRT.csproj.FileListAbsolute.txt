@@ -1,0 +1,5 @@
+c:\users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\bin\IVRT.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\bin\IVRT.pdb
+c:\users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\bin\Oracle.DataAccess.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\obj\Debug\IVRT.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\obj\Debug\IVRT.pdb

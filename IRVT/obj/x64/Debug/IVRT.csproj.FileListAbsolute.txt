@@ -1,0 +1,5 @@
+C:\Users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\bin\x64\Debug\IVRT.dll
+C:\Users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\bin\x64\Debug\IVRT.pdb
+C:\Users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\obj\x64\Debug\IVRT.csprojResolveAssemblyReference.cache
+C:\Users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\obj\x64\Debug\IVRT.dll
+C:\Users\zf297a\documents\visual studio 2010\Projects\IVRT\IVRT\obj\x64\Debug\IVRT.pdb
